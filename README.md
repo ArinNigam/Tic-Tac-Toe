@@ -1,6 +1,7 @@
 
 # Tic-Tac-Toe
 
+<img width="829" alt="image" src="https://github.com/ArinNigam/Tic-Tac-Toe/assets/99138286/1dfc1b6a-f9a1-4797-9f46-2adb24690244">
 
 
 
